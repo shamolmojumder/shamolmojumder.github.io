@@ -6,7 +6,7 @@
 - [Linkedin] (https://www.linkedin.com/in/shamolmojumderdipu/)
 - [Twitter] (https://twitter.com/shamol_mojumder)
 - [Youtube] (https://www.youtube.com/channel/UC8VlrXmjMHfJ7Ruzr4-fXxQ")
-- [Instagram] (instagram.com/shamol_mojumder_dipu/)
+- [Instagram] (https://instagram.com/shamol_mojumder_dipu/)
 - [Facebook] (https://www.facebook.com/shamolmojumderdipu/)
 
 
