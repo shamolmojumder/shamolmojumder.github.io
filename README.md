@@ -6,6 +6,18 @@ A clean, minimal, easy and ready-to-go portfolio template built with pure HTML, 
 
 [View Live Demo](https://shamolmojumder.github.io/)
 
+- 👋 Hi, I’m @shamolmojumder
+- 👀 I’m interested in web development and learing new things.
+- 🌱 I’m currently learning Javascript and ReactJS.
+- 💞️ I’m looking for a Web Developer job.
+- 📫 How to reach me whatsapp +8801643422029
+- -[Website] (shamolmojumder.github.io)
+- [Linkedin] (https://www.linkedin.com/in/shamolmojumderdipu/)
+- [Twitter] (https://twitter.com/shamol_mojumder)
+- [Youtube] (https://www.youtube.com/channel/UC8VlrXmjMHfJ7Ruzr4-fXxQ")
+- [Instagram] (https://instagram.com/shamol_mojumder_dipu/)
+- [Facebook] (https://www.facebook.com/shamolmojumderdipu/)
+
 ## Features
 
 - **Pure HTML/CSS/JS** - No frameworks, just vanilla web technologies
