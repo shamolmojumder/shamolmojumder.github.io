@@ -218,6 +218,20 @@ a {
   background-color: var(--portfolio-accent-hover);
 }
 
+/* //RESUME */
+.resume {
+  padding: 0.75rem 1.5rem;
+  background-color: var(--portfolio-accent);
+  color: black;
+  border: 1px solid;
+  cursor: pointer;
+  transition: var(--transition);
+  font-family: var(--font-mono);
+}
+
+.resume:hover {
+  background-color: var(--portfolio-accent-hover);
+}
 /* Work Section */
 .work-list {
   display: flex;

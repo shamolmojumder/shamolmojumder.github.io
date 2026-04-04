@@ -34,7 +34,7 @@ A clean, minimal, easy and ready-to-go portfolio template built with pure HTML, 
 1. **Clone or Download**
 
    ```bash
-   git clone https://shamolmojumder.github.io/
+   git clone https://github.com/shamolmojumder/shamolmojumder.github.io
    cd portfolio-template
    ```
 
